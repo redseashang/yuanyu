@@ -1,7 +1,11 @@
 {
-    "name": "yuanyu/chenglong",
-    "type": "MIT",
+    "name": "redsea/hello-word",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Redsea\\HelloWord\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "凡",
@@ -9,10 +13,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "yuanyu\\": "src/"
-        }
-    }
+    "require": {}
 }
