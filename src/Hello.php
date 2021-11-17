@@ -1,9 +1,11 @@
 <?php
-namespace yuanyu;
+
+
+namespace Redsea\HelloWord;
 
 class Hello
 {
     public function show(){
-        echo 'Hello';
+        echo 'Hello redsea!';
     }
 }

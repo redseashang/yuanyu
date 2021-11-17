@@ -10,15 +10,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hello.php" afterDir="false" />
+    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yuanyu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yuanyu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -32,8 +37,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chenglong" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,8 +49,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637139019741</updated>
-      <workItem from="1637139020944" duration="619000" />
+      <workItem from="1637139020944" duration="1715000" />
+      <workItem from="1637140816932" duration="15000" />
+      <workItem from="1637141069148" duration="882000" />
+      <workItem from="1637142819974" duration="419000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1637139736591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637139736591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,20 +77,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637139465124">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="469" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1637139465124" />
-    <state x="543" y="150" key="NewPhpClassDialog" timestamp="1637139524428">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1637140832223">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="543" y="150" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1637139524428" />
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1637140832223" />
+    <state x="543" y="150" key="NewPhpClassDialog" timestamp="1637143121202">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="543" y="150" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1637143121202" />
     <state x="536" y="353" key="NewPhpFileDialog" timestamp="1637139480433">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="536" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1637139480433" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1637143063938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1637143063938" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1637141337716">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1637141337716" />
     <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1637139634021">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
