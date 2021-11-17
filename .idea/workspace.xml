@@ -10,10 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="3">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.php" beforeDir="false" />
+    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="4">
+      <change afterPath="$PROJECT_DIR$/src/Foo.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <workItem from="1637139020944" duration="1715000" />
       <workItem from="1637140816932" duration="15000" />
       <workItem from="1637141069148" duration="882000" />
-      <workItem from="1637142819974" duration="902000" />
+      <workItem from="1637142819974" duration="1186000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637139736591</created>
@@ -73,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637143286162</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4">
+      <created>1637143733708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637143733708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +100,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637139465124">
@@ -106,10 +112,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1637140832223" />
-    <state x="543" y="150" key="NewPhpClassDialog" timestamp="1637143121202">
+    <state x="543" y="150" key="NewPhpClassDialog" timestamp="1637143955365">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="543" y="150" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1637143121202" />
+    <state x="543" y="150" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1637143955365" />
     <state x="536" y="353" key="NewPhpFileDialog" timestamp="1637139480433">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -118,10 +124,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1637143063938" />
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1637143289070">
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1637143766701">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1637143289070" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1637143766701" />
     <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1637139634021">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
