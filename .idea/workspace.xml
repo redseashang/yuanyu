@@ -10,12 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="1">
+    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="3">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yuanyu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yuanyu.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <workItem from="1637139020944" duration="1715000" />
       <workItem from="1637140816932" duration="15000" />
       <workItem from="1637141069148" duration="882000" />
-      <workItem from="1637142819974" duration="419000" />
+      <workItem from="1637142819974" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637139736591</created>
@@ -61,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637139736591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1637143278686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637143278686</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3">
+      <created>1637143286162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637143286162</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +93,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637139465124">
@@ -104,10 +118,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1637143063938" />
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1637141337716">
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1637143289070">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1637141337716" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1637143289070" />
     <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1637139634021">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
