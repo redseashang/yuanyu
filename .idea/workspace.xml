@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Hello.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="212V9hGyhzL6zFpxf9L1e8qnyNI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac92763-c816-478b-96fa-59ef09cd6ba0" name="Default Changelist" comment="" />
+      <created>1637139019741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637139019741</updated>
+      <workItem from="1637139020944" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637139465124">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="469" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1637139465124" />
+    <state x="543" y="150" key="NewPhpClassDialog" timestamp="1637139524428">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="543" y="150" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1637139524428" />
+    <state x="536" y="353" key="NewPhpFileDialog" timestamp="1637139480433">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="536" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1637139480433" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1637139634021">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1637139634021" />
+  </component>
+</project>
