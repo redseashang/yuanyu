@@ -1,9 +1,9 @@
 {
-    "name": "zhoujiafei/hello-word",
+    "name": "zhoujiafei2/hello-word",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zhoujiafei\\HelloWord\\": "src/"
+            "Zhoujiafei2\\HelloWord\\": "src/"
         }
     },
     "authors": [

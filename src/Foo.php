@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Zhoujiafei\HelloWord;
+namespace Zhoujiafei2\HelloWord;
 
 
 class Foo
 {
     public function show(){
-        echo 'hello zhouxingxing';
+        echo 'hello zhouxingxing2';
     }
 }
